@@ -1,4 +1,5 @@
-# React Three Fibre Starfield
+# Next Three Fibre Starfield
+
 
 [Github Page Demo](https://greeffer.com/react-three-fibre-stars/)
 
